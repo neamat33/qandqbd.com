@@ -1,0 +1,62 @@
+.top-bar {
+    position: relative;
+    height: 90px;
+    background: #eafbf9;
+}
+.top-header{
+	color:#ccc;
+}
+.dropdown-menu{
+    padding:0px;
+    
+}
+.dropdown-menu .dropdown-item:hover{
+    background-color: #eafbf9;
+    color:rgb(7, 7, 7);
+    border-left: 3px solid #ffae53;  
+}
+.navbar-dark .navbar-nav .nav-link, .navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link.active {
+    padding: 10px 30px 8px 10px;
+    color: #ffffff;
+}
+.main-content{
+    background-color:#eafbf9;
+}
+.feature-top {
+    position: relative;
+    background: #00a0dc;
+    margin-bottom: 0px;
+}
+.feature-top .feature-item i {
+    color: #8aecec;
+   
+}
+.feature-top .feature-item p {
+    color: #121518;
+   
+}
+.about .about-img {
+    background: #00a0dc;
+}
+.service .service-icon {
+    background: #00a0dc;
+}
+.feature .feature-img {
+    background: #00a0dc;
+}
+.feature .feature-icon {
+    background: #00a0dc;
+}
+.faqs .faqs-img {
+    background: #00a0dc;
+}
+.accordion {
+   
+    background: #eafbf9;
+}
+.faqs .card-body {
+    padding: 15px 0 0 0;
+    font-size: 16px;
+    border: none;
+    background: #eafbf9;
+}
